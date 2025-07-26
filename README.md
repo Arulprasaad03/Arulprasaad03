@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm SJ Arulprasaad</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arulprasaad03&label=Profile%20views&color=0e75b6&style=flat" alt="arulprasaad03" /> </p>
-
-<!-- Profile Header with Coding GIF -->
-<p align="center">
-  <img src="360_F_826297995_gHRLKyv4GIP3m59PPertUglA2bTG9eoc.webp" alt="Coding GIF" width="500"/>
-</p>
-
-<h1 align="center">AI & Machine Learning Specialist</h1>
-
 <p align="center">
   <b>B.Tech Undergraduate at VIT University</b><br>
   Specializing in Artificial Intelligence & Machine Learning
