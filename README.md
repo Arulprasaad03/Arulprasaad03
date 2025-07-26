@@ -5,7 +5,7 @@
 
 <!-- Profile Header with Coding GIF -->
 <p align="center">
-  <img src="60_F_826297995_gHRLKyv4GIP3m59PPertUglA2bTG9eoc.webp" alt="Coding GIF" width="500"/>
+  <img src="360_F_826297995_gHRLKyv4GIP3m59PPertUglA2bTG9eoc.webp" alt="Coding GIF" width="500"/>
 </p>
 
 <h1 align="center">AI & Machine Learning Specialist</h1>
