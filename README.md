@@ -3,10 +3,47 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arulprasaad03&label=Profile%20views&color=0e75b6&style=flat" alt="arulprasaad03" /> </p>
 
+<!-- Profile Header with Coding GIF -->
+<p align="center">
+  <img src=""D:\coding_success.gif"" alt="Coding GIF" width="500"/>
+</p>
+
+<h1 align="center">AI & Machine Learning Specialist</h1>
+
+<p align="center">
+  <b>B.Tech Undergraduate at VIT University</b><br>
+  Specializing in Artificial Intelligence & Machine Learning
+</p>
+
+---
+
+### 🚀 Areas of Expertise:
+- Data Analysis & Visualization
+- Modifies GAN architectures 
+- Machine Learning & Deep Learning  
+- Quantum Inspired Memory Embedding Techniques
+- Generative AI & Model Development  
+- Model pipelining and Deployment  
+
+### 💻 Programming Languages:
+- Python, C++, Java  
+
+### 🧠 Current Focus:
+- 🔍 Advancing my expertise in Generative AI architectures  
+- 💻 Building practical AI solutions with production-ready deployment  
+- 🌐 Exploring cloud-based ML infrastructure  
+
+---
+
+<!-- Footer GIF (Optional) -->
+<p align="center">
+  <img src="LINK_TO_ANOTHER_GIF" alt="AI in action" width="300"/>
+</p>
+
 
 - 🔭 I’m currently working on **Quantum Inspired Anomaly Detction**
 
-- 🌱 I’m currently learning **R,**
+- 🌱 I’m currently learning **R**
 
 - 📫 How to reach me **arulprasaad21@gmail.com**
 
