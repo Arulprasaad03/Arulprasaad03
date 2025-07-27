@@ -12,30 +12,29 @@
 
 ---
 
-<div style="position: relative;">
-  
-  <div>
-  
-  ### 🚀 Areas of Expertise:
-  - Data Analysis & Visualization  
-  - Modifies GAN architectures  
-  - Machine Learning & Deep Learning  
-  - Quantum Inspired Memory Embedding Techniques  
-  - Generative AI & Model Development  
-  - Model pipelining and Deployment  
-
-  ### 💻 Programming Languages:
-  - Python, C++, Java  
-
-  ### 🧠 Current Focus:
-  - 🔍 Advancing my expertise in Generative AI architectures  
-  - 💻 Building practical AI solutions with production-ready deployment  
-  - 🌐 Exploring cloud-based ML infrastructure  
-  
-  </div>
-
-  <img src="banner.png" alt="AI Brain" width="120" style="position: absolute; bottom: 0; right: 0;"/>
+<div>
+       <img src="banner.png" alt="AI Brain" width="500" align="right"/>
+      <h3>🚀 Areas of Expertise:</h3>
+      <ul>
+        <li>Data Analysis & Visualization</li>
+        <li>Modifies GAN architectures</li>
+        <li>Machine Learning & Deep Learning</li>
+        <li>Quantum Inspired Memory Embedding Techniques</li>
+        <li>Generative AI & Model Development</li>
+        <li>Model pipelining and Deployment</li>
+      </ul>
+      <h3>💻 Programming Languages:</h3>
+      <ul>
+        <li>Python, C++, Java</li>
+      </ul>
+      <h3>🧠 Current Focus:</h3>
+      <ul>
+        <li>🔍 Advancing my expertise in Generative AI architectures</li>
+        <li>💻 Building practical AI solutions with production-ready deployment</li>
+        <li>🌐 Exploring cloud-based ML infrastructure</li>
+      </ul>
 </div>
+
 
 ---
 
@@ -125,8 +124,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Arulprasaad03&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arulprasaad03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arulprasaad03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
