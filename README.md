@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_TO_ANOTHER_GIF" alt="AI in action" width="100%"/>
+  <img src="banner.png" alt="AI in action" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm SJ Arulprasaad</h1>
