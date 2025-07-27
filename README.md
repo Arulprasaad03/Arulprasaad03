@@ -12,33 +12,32 @@
 
 ---
 
-### 🚀 Areas of Expertise:
-- Data Analysis & Visualization
-- Modifies GAN architectures 
-- Machine Learning & Deep Learning  
-- Quantum Inspired Memory Embedding Techniques
-- Generative AI & Model Development  
-- Model pipelining and Deployment  
+<div style="position: relative;">
+  
+  <div>
+  
+  ### 🚀 Areas of Expertise:
+  - Data Analysis & Visualization  
+  - Modifies GAN architectures  
+  - Machine Learning & Deep Learning  
+  - Quantum Inspired Memory Embedding Techniques  
+  - Generative AI & Model Development  
+  - Model pipelining and Deployment  
 
-### 💻 Programming Languages:
-- Python, C++, Java  
+  ### 💻 Programming Languages:
+  - Python, C++, Java  
 
-### 🧠 Current Focus:
-- 🔍 Advancing my expertise in Generative AI architectures  
-- 💻 Building practical AI solutions with production-ready deployment  
-- 🌐 Exploring cloud-based ML infrastructure  
+  ### 🧠 Current Focus:
+  - 🔍 Advancing my expertise in Generative AI architectures  
+  - 💻 Building practical AI solutions with production-ready deployment  
+  - 🌐 Exploring cloud-based ML infrastructure  
+  
+  </div>
+
+  <img src="banner.png" alt="AI Brain" width="120" style="position: absolute; bottom: 0; right: 0;"/>
+</div>
 
 ---
-<!-- Clickable footer banner -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/arul-prasaad-95b25a285">
-    <img src="https://raw.githubusercontent.com/Arulprasaad03/Arulprasaad03/main/footer.gif" alt="LinkedIn" width="300"/>
-  </a>
-</p>
-<!-- Footer GIF (Optional) -->
-<p align="center">
-  <img src="LINK_TO_ANOTHER_GIF" alt="AI in action" width="300"/>
-</p>
 
 
 - 🔭 I’m currently working on **Quantum Inspired Anomaly Detction**
