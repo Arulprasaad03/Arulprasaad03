@@ -48,6 +48,8 @@
 - ⚡ Fun fact **I am a table tennis player**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arul-prasaad-95b25a285) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/your-username/)
+
 
 # 💻 Tech Stack:
 
