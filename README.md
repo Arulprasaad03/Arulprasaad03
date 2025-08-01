@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm SJ Arulprasaad</h1>
-<h3 align="center">A passionate AI Engineer from India</h3>
+<h3 align="center">A passionate AI Architecture and Application Engineer from India</h3>
 
 <p align="center">
   <b>B.Tech Undergraduate at VIT University</b><br>
@@ -19,7 +19,7 @@
         <li>Data Analysis & Visualization</li>
         <li>Modifies GAN architectures</li>
         <li>Machine Learning & Deep Learning</li>
-        <li>Quantum Inspired Memory Embedding Techniques</li>
+        <li>Quantum Inspired Memory Embedding Techniques for Anomaly Detection</li>
         <li>Generative AI & Model Development</li>
         <li>Model pipelining and Deployment</li>
       </ul>
