@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm SJ Arulprasaad</h1>
-<h3 align="center">A passionate AI Architecture and Application Engineer from India</h3>
+<h3 align="center">A passionate AI Engineer and Keen Interest in Data Compression Methods from India</h3>
 
 <p align="center">
   <b>B.Tech Undergraduate at VIT University</b><br>
@@ -39,7 +39,7 @@
 ---
 
 
-- 🔭 I’m currently working on **Quantum Inspired Anomaly Detction**
+- 🔭 I’m currently working on **Quantum Inspired Compression algorithms**
 
 - 🌱 I’m currently learning **R**
 
