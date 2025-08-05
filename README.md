@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm SJ Arulprasaad</h1>
-<h3 align="center">A passionate AI Engineer and Keen Interest in Data Compression Methods from India</h3>
+<h3 align="center">AI Engineer with a Passion for Architecture and Data Compression from India</h3>
 
 <p align="center">
   <b>B.Tech Undergraduate at VIT University</b><br>
